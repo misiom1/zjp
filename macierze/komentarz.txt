@@ -1,0 +1,3 @@
+Dla macierzy o wielkosci 10000x10000 pomnozonej przez wektor 10000 roznica dlugosci
+dzialania programu rownoleglego jest krotsza o ok 0,5sek od programu sekwencyjnego i wynosi
+~1,2sek, programu sekwencyjnego - ~1,7sek

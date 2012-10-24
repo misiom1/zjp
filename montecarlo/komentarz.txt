@@ -1,0 +1,3 @@
+Od probki wielkosci 10000 liczb program rownolegly zaczyna pracowac minimalnie szybciej
+od programu sekwencyjnego, przy probce wielkosci 1000000 program rownolegly oblicza w czasie ~0,06sek
+a program sekwencyjny jest niewiele wolniejszy - o okolo 0,002sek

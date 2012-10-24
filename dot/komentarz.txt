@@ -1,0 +1,2 @@
+Dla probki 1000000 program rownolegly jest wolniejszy od sekwencyjnego okolo dwukrotnie.
+Czas dla programu sekwencyjnego wynosi ~0,004s
